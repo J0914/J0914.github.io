@@ -1,1 +1,1 @@
-Welcome to my Portfolio site! Please click [here](https://j0914.github.io/#) to view!
+Welcome to my Portfolio site! Please follow this link to view! https://j0914.github.io/#
