@@ -117,7 +117,9 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #15a0c1
+			color: #4c7c7c
+
+
 
 
  !important;
@@ -1788,7 +1790,9 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #15a0c1
+		color: #4c7c7c
+
+
 
 
 ;
@@ -1854,7 +1858,9 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #15a0c1
+			border-color: #4c7c7c
+
+
 
 
 ;
@@ -1962,7 +1968,9 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #15a0c1
+			border-color: #4c7c7c
+
+
 
 
 ;
@@ -2414,7 +2422,9 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #15a0c1
+				background: #4c7c7c
+
+
 
 
 ;
@@ -2633,7 +2643,9 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #15a0c1
+			background-color: #4c7c7c
+
+
 
 
 ;
@@ -2644,7 +2656,9 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #15a0c1
+				background-color: #4c7c7c
+
+
 
 
 ;
@@ -2654,7 +2668,9 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #15a0c1
+				background-color: #4c7c7c
+
+
 
 
 ;
@@ -2724,7 +2740,9 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #15a0c1
+		background: #4c7c7c
+
+
 
 
 ;
@@ -2835,7 +2853,9 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #15a0c1
+							color: #4c7c7c
+
+
 
 
  !important;
@@ -3106,7 +3126,9 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #15a0c1
+						background: #4c7c7c
+
+
 
 
 ;
