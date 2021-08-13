@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #6a798b;
+		background: #e6edff ;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2852,7 +2852,7 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: #6a798b;
+							background: #e6edff;
 							color: #4c7c7c
 
 
