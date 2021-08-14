@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #5b9995
+			color: #719b19
 
 
 
@@ -1790,7 +1790,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #5b9995
+		color: #719b19
 
 
 
@@ -1858,7 +1858,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5b9995
+			border-color: #719b19
 
 
 
@@ -1968,7 +1968,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #5b9995
+			border-color: #719b19
 
 
 
@@ -2422,7 +2422,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #5b9995
+				background: #719b19
 
 
 
@@ -2643,7 +2643,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #5b9995
+			background-color: #719b19
 
 
 
@@ -2656,7 +2656,7 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #5b9995
+				background-color: #719b19
 
 
 
@@ -2668,7 +2668,7 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #5b9995
+				background-color: #719b19
 
 
 
@@ -2740,7 +2740,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #5b9995
+		background: #719b19
 
 
 
@@ -2853,7 +2853,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #5b9995
+							color: #719b19
 
 
 
@@ -3126,7 +3126,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #5b9995
+						background: #719b19
 
 
 
